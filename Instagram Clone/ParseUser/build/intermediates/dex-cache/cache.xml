@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/50b915afa313d8aec2e947ea409076d2ac801840/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_623ef6e200055087e689c07ec86a7db9f7eb0851/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8b9b71b1823eff434da5b37a42464a4fe234f77d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_346189153976c7ba797d3b9ea4b6fdfb262be231/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/5ec07b3788a4405e6fab4ee066523330c5a30f01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06793df9c1576eab194826d5db8f00a40cf0b59d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/305a04630a53afa10e9057be0362807875894ac3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69b16341fe68bfa1f983d59ca4e6f773668aa348/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/28f0df7a69f98e27191bd23dab3bd75cecea2f1c/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_c94e437011b3dc731c34dab4497f63f5f4b56a72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4e80118a786655adfb657a3ee220d8e327b52ad2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3867d41f93a74e59a3a57d67def1819b6a00038f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/680d3561284655b6e52423327e4492b54ccae035/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_084a32808a3e63691700b3b655ca71179339eb20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/495295fbb056ca3de459ea0af92682a05281be64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_541b52e106440b6cbac1c504831d5962d52b394e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/be3b7516187fa951c31e232d62858c05b8c81bfe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1d459e466059b3a5702b0794b548c97e88ee546/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/28f0df7a69f98e27191bd23dab3bd75cecea2f1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_469a4d302a3ecd2b1b8f4bb3f40322a9254265db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/9604dccad5791c6aa9b4cdae7610942028f2543b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b34367b5d3d822938e7a4d5c60ed803badf9d58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/d4d7a34704be67e4920e7e0cd3be544af18adc79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_442af7e43df9dbba6cef0d0af435ff7f704071f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f3a1960b877c324c5ec680c415556fc32d170073/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68555a17296389a3964e90be803ea9f9c84d9998/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/45a3bda985212a1749b518a50bffc53361e63ed6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebb217ce26c1641f1b093eb6936db06f7fa633da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4aef653f7f2a77be9fa18e23d82baaa8e790f480/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a46c621fa09edfae8a7ec5e2c0807f73fce7a22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/326fd535c2f252904cca56693f80e5a5cca12076/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5bd0249fb42b962f508ac8473460c059d5bbdc5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3e739c192cc40bb05a0c087a7cf8dd72efc58da7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a2dcde481aed3bc1973683d93bfd3bdec2638cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f8058fe501f7c2c15799670c7404763003116364/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e81ae4ce09fd632b9a63e8cbe469187e26010f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7d1b3e0ddb2d8d2efd432f21b9a28f4cf1652053/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db0a8e58e6be504ba36147af7c6181db3c78d990/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/6c2974a735798150937e83679e51f527ec149e39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74e976151620c6bb8e1f76266c651b9435577b0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8b9b71b1823eff434da5b37a42464a4fe234f77d/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_0bbc5a0e8a4ad96a26558b63b72b8dd5161d73c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f1c20f30e2567ab071424ffee9dc7496b3643695/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2040cd0f5da6363b985da44e1f129b6f25d2c3be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a87ebd16c99d96bf157c17c64918385e110e0b7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_852ebcf0a598b64485d4612765c69b56075dfddd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a87565fe0f856672bea100939da8015006aded51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a2dd677d2995b1cd9879b077c3219aa52d82e60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f6239821904b8bd6abe8ab66c1e2e11c76623210/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ca678f4c87e1618c8baef0b2e0dd425fc45d0a7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e20ec3eb5da54b1d43bb94555d75448b77306c94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f00727839a04e9e2acb4d18472452d4a339144ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bff2dfd987559ca50dc731e976fc055d7c530f25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b0e2b427a4f614ebf9c8da0b3c5ebd3d80ca54ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fdaf2ac38d0d6bb84af8d89f4d8896d057b74b49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/41c2d07a08621dfc3f56d8e96a3a9c8410a00a7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df809cc0439633bcb8cdf38372f947f1ed10ad36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/feb58d020e21bc586f6db0e414556e0252422dbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40515fc6fc5645c1e12855545307b8b786720053/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_b4709c3250d24bd45e7d10d3a4757487cfcb7705/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c050e264c2a3c9a92d6fe6272584f358a5d688ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db97dcca13c1e615e10cbc3b824ed7fa909a4b66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/aae5386c058bf594e068181525921e1b016695ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afea11998db7c0e7287605b54098533c12e76422/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/1b39020348db5fbfa5d25222e66bcdc7afc8cec8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8d933ced4a6040d9ac70f4bf7c7093285aa6507/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b867cc297907372a484d4eb99dbf048246fa8790/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c96854e868098494258185949b4026426b78924e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4f62f4c04c082089425d86993ef273d01ef1e21d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_242295d393617924419f1b196d3d70341ae909ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/d861af6ae6c632504d5155f8eb4b08db9326c3d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e57fb6b68a3a49a18f2508df23fece8d2c32310a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8c04709ea6b226e41b5b3aacf87ba62ef8861ad6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32daa9e7e6f06e25adf172dcf625183b6230d453/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b87778e21d4ac8842df353553fc1715754b9468b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_355b4be4d463f251929fd04e0cb4d192c8123c2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/72423b8de64e3e87257b18f3db94cfde99a81777/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a412ae69157d60ee0dc0a52e8309514dae83fc8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/1406e1a509ab005cfad289904fddffd0d191c16e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_917f32421351ea8e61a9470d5aa19a80ea533f27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/9f0021ec511888e6d59d1b6ac12c741e880c7d18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d20302ed5be06fbf404ee1fb1f32c4cdeab8eb9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8dddb1bfdae12d8a5c81ef731ef6d1b3b1f1ffd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1418ed7542d0b992ede5ea4e836b9ff7e21b69c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4c69b6eda85b75b752a5068d726c155961cb22c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_edc6eed156e815b918aae465e76ea59b9637dbc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/cc2078cadff6a3b3dd327cece6ee17d961b9f1a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7c827bea61f160d7e1252acc03ee31d479529d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/334478992d2aab5647d45285118f62581b815b83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79c146cdf8ab847592a36db9c98b20540a0e47e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/056f5dacb3dcc17384777fba024583287dc03f9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b7b6b7e8c7e9bbbea21d7075d8ea08bf0f62311/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ab3d4731daaff029367ff0a48879a44b7562246c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b9603859b7df8a500267509942f4069a79739ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c2d33d162d5e31319d0d1a4602bd5b34303d8913/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32e7305b36497ddf0ce82ac93ba2d33ec0c6a209/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/21c365f924daf395d7744d446aa298903fe23c7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d973a42f2b0c6a5d83fed200667a9b309b1d1c04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/05497662d92f5bc743eeda8cffec0ded70ec9947/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8670000ecff89e57b8782a20a0d53cfcfa7cb36f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/73200e7df7cdb78b83dd11ca6837fb4afb0fef9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14a22e3d10f93a13c394445f03506ccb62ddd997/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/0f608e6487fbd339be1ec060681419fe9691f1ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78fb8b7ea0cc6961572754bf829ab2a9c2405b3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/0074807bd97f49ce70afdbaae9da1f2696d4610e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6187a14e14a6a8431f3f86e354db5311ba152512/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/395860c61118d2d6e47053801a3413af61ab2d96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bf9fde8b3fa255dfaf2ecf9d39979214247fca8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/aba4b5068517cc8ab3a16d074d722fd249e6fac9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83d7afbcf29acb3b85e63d82ba091f0296bcf3e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a0ca55ff5df257434d3401e0405a30e790d8d140/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_056cb9488b6921cdff5b564ceb3881ad412837e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/79dd3275a64491040fbd839e50ea6b1ebe27cd07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bba6d94b0c9ddcc1cde2665a1e8c16908f10710/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/84067cb725285f5e232ca6a6d08fa347833f1611/output/res/values-en-rSG/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 244,
+                        "endColumn": 99,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]

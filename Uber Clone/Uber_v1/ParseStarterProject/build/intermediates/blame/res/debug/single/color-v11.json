@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/root/.android/build-cache/35440082e0e3fae160d6aaba344b83fd447776c4/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/root/.android/build-cache/35440082e0e3fae160d6aaba344b83fd447776c4/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

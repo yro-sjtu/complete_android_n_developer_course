@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/2bb5a8a3d4b52f651db2d0939284a1a6fdc5b39d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram/Login_Signup/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4589c819dfdab100a182a5a96c8e1aae334b086b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram/Login_Signup/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_76f81077aea9bd1699aabfb9818dc8fa3bde44df/classes.dex" />
+    </item>
+
+</items>

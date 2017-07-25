@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/5a8fd6a0dfc5cbd10129e74a2cd7ae95662163a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f141f2f87678e9fc77c80c20cd431c8e8a622ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/0bac892492d17a330e3194d1a924ba26651cacba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c76804333008c855433cad5cfd1256e86045e97b">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea5fbbb113f4fcf6beb6959f2a24f6d54a43e051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/32899888a30009a50ebbd6bb53e867d722bdae05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_541d2f7104c76c915c90fed24e5818891c134563/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/5c6f164fbe2d8a0a9d235ab0d58c39ee82d3d666/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36cad24368cb618fdd0368e6f9b1c6ef5a0d8fb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/baab70d83aa49160d21d0990bca3f8d746a56ba6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="610ae6a6872d9718fc05e2c726758206bd367595">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb4060498ad8d50e32a680dcaa068fe0a32819a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/daa586be1550e79bc223e3f3b4867aac0ed979db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d489dada692cf59946d70aab2ce7d026c597faf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b608f765d40f155e770d509523bf1b1b527b7d38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="183e4fb7cf95f4fa54963cfcdaf0f4d7e2397bad">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_921550645f5c7cb73d7e1413ebfbe83268981ff9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3a989143427c41557f187a07c275a0bc0e6b982d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b8ad09b76c4ffaedf443ca54bc2418760870689">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57db6df4320d6933cb343257ed7f489b63f534f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b3d07ea8553aa32c8658488f765aefe2ebf19cdb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e25255526e0edce132ddfcd8628f40172713a03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/d145fd0343d08fcb1fef7a565edd1df97c7847cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b05b59b1253336e6732ec20d0f4416e678b0e45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ab4858a14a442833c148c94fde54c4faccf557ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d74e7ca2eb9bc181cc57a7a0e3955bdb041acdec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4fd85d6e6577edfd1fa999829fea8628128d181c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0dca4a7023dc39fc9c110dab9c639c4d4bf5621e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/1b2e7b6cfcf04e16d067700aa08cd751eb3d55ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93094dbb2af50e23339620bebd7b4b6161410edb">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b110007e1ef320d75845a8cf85da3ee1268abf42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c53e2c0485911a0bc9e733ee6652feb5920dd191/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="287051610dd01cc6eeaed7fc689712c31ad1ff70">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81dbd74442a7311c34a77e4f098c1e11c16bd3bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/894794689507eaebaa550ae6ab1786ee16abf4be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_256cec8487044f84d6de601e23ab2a138b7bb164/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c1f1d608ecf9b54483e023e225e4ce2ed5dd56aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b8d1a53648f7ecfe9e7bf0baf9ca657c5a1ff91">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_467aa147f9342173ea85faa803c9a97bf35e697a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/52f6fe1e171e7e2a9930b5e37c3c4e718b427738/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b2b4d3ecd541814f08200f8171def113095d5f39">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e038d321fd0441504e5a674d47ac0430a03cd077/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ecf34fdbcd20a51cd952ac2bf41ef29c180d53b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88e795fee5ccea7a46d38bc4c9caed8dc37830f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a2da20d48fe8a9e2894385b0a601b781574435a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8748e15968514ff1708deb3bb7f0c17623e50bbb">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbb1ea02786e08bf07f18a8e7275059ea80feb01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ace366f6fb53771da977a00c8c6a7ea3b93db418/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50b86bb71d8a37303cc476191ba094f45d57f2ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7bfbb56d896312599f9bcbaaade2e8e572d987f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b5a980036b327e05fd2e149c93c8750e22b297d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/26358a095b2510e88dd67f2b7fc5170e5bbc74d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ca1b9e1ae200f3c3be1d28d231fea9332c047d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a6224e9b9e81bff5077a7ef4fc0a1ebab87e15d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b01167767f5233ce865f926e8544ed0d9fffba61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/35440082e0e3fae160d6aaba344b83fd447776c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22cb6fd9ed435f83ee98fc19c046b2d45135af74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c9886db7dd700174f8285bf1b231f7dc00528cc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5daea0e161437a6354ed2bea3eb8c98bbd4da50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f160d30f984d549d108b5db9611e70426cb8eff8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f8b587efec26a7f0ee9f0dccef59e5346ff10e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3967e62ffab3dc668c74b56207f9b482a5ac29f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c628962d63b6d9db63776413c207106ef44e12fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/da12f96aa9b9d8542a8dc7e8476e1cde713e1b1a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64ba9f402c2ae00f941166aae6f4bf37af8cb2ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/9d9ab19177ef4128135e48f2c90de6847eacaed4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="701c58abf53f488bc5bb0162f1305a38a32fb5f1">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ada311cb10924820eb71b76103ba5a07cbac5d6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ebc4d4179e403231242b7e0f2a2d5d99482129ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2ed7ba48801a0a361727833ade3b6cf096968cc0">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f14ce7fd63974f1f1023435f7def29ffce058868/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a330fdb1e5f42137598738c446d8b4262435e380/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="688809418e4c2b5014a028c02708d6aeaba466ff">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_708d95551be9df781c078f272b02dac9874c971c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/859e811717a605d26b547700eb46c4a56333191b/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_c7256560412670a7ba4b48218cf03869260e5161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/859e811717a605d26b547700eb46c4a56333191b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5a4609d3cb0b0cca7c762a6e2df4e188db6324b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/03a94dcd15381d6d6cee55fec833a50b0e72d5ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35b49bf108985e2e467ace7d9dff1b7d479633c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/d9520c207c6f55b0fadb3eadb5912b5069585e2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9565eaf06433a969be5b924032a22ecfee5e5cdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3b75d2d0d99fad81db4fb9314f0a508662e9620c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99cce7898a762fd0fed73046c1a7c044998592a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ef91a4b06a5f2465b3ef9ae0692d65aa45c33f5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dde643ce80b967f869e9b111255815ba4d391653">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b570dc44a7d1ce4f5939269ac943b207c329720/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/cfb7f916b0a338eb8ebd6aba2ae30b9440d15e92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d72eb1ceff1b0bac4916088eb44bb93f86b1265c">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31ad18ad09b286a6926bb1d3677abeb569ec1790/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/5d025d0fcf1b9cef749b900f4bf24ecef1606fd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02e70fe04e0767ccfa16745b3398816d1171f0ad">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26075830da0b91943a105f7e625da1a075dfdc1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/efd9fef8c373bd7f7d1eccad921e40edc07b393d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88ae4c6ceaeab7beca5e396e0698c6958e26a2d2">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_085a336e442e80084ef48d330adbb291439ce7ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/78c469316005118611eeaf21e6588e1aeb1c503c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa6a6e385297077a344e0bb95ab6c22f22119261">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89f13db0e78d284d1a06e353cb8af91f1499ed1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e2c492dd88990c08b04ae6eb6ab6c983d4ee3f98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="80ecaefc1035fde747999e4c20e18d207363efa2">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0654832239558008187d65c09ad069a2b56c87fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8d601cc2e4d0b03763a51e7564ed39f264e327f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7341972a6d90cf71d077f5a40d1a06faed975cb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ddfeb78fe873715864b371018e6f0f50e2c7cc3b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58e699dc7220c2c38e76407ea422cde3b4f9062b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ffe947f035aba4cdadd0b6c702fc0820d3e373fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a3cd3e87b63863c1a675193bd262e8a4f245207/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a0c5cebb290f5c43111ae7e72b32ec4054d0efa5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="32aa1b2a2f68f455403d10d41d8ded37c9812f11">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8447c4bc091b71bf8bf33016061d7551590153b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/331579dd941e3850778c46e0050e030d29840fee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bccf40d27a24f131d643a2eec5155d9d280da183/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/736a4a26b3a069a2dee3692703fe8a9f8df4ab8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97f9990af6cc87d4f3496bfdd0103659dacbe52b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/fd2b059526b8d665f3d120b5216e6acf3d8fe884/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfb3d4484a9aba6bb1c945e8250e87baeb5764c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/70123dfe0a5b6211f7c65374bcdd568a5105d24a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8da5bfe02e49cf713c9481b290a3ce0fc4d674dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ba1d0f662f77b3d55c17d2b9e7646546a860004c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66559c479f2e3a5f258af81375ff3e10d7086910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a9e7a37eea1f8d8231f4a73b9cf99198f5d7bf77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77fd50c3a168ed5a4c5b20ebfc30e4582bcc3c01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/bee85964051b5d8e4918e22419e1f3f8269e113e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2188ba20a948ec6e7fa671b818c69d876d8bf32d">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a255bd1c57953ac70b278601fa874353086bd86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7897d8243585a1e8f18610254d0be85fae9f68c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="90236fba9ac4dfb1f4196e231aab964522143ef6">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1d8f57893f5ca352cef8f4a325df6a38acc29e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/903a5f2fc4143417dbef15f54140fe7848cf6f0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9c8affe1f564ec0d063be68469d26e972455217">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3acfc32beccba2757ca7d106b638178ed8549461/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/343ce15bee3f1fb77905cb1755c46c3d9afc4071/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8ee70a129c81be3f93967cc4b3767e20aaf3c15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/84067cb725285f5e232ca6a6d08fa347833f1611/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="acc7a846f0bc56ecccda535fc919fd338b2b3e2c">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fafb516e6eb9cfd017fb540c6006ef7713c05d6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b9bf1c065b599576d790a298d8e8896f3f0c2b7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d339a09b33b043fcf66ec7c91c8aaf609dbcf2fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7c325d5945e0b9e1ee78b28bf7730cb9d5855119/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d66b8668122393a15c90471c5c974c25439d193a">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7ee723f616f9f30b6bf46611e75e9a4526cc60d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/6de042180ad89aebf3bdfe9909b95f79568928c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8fdf15d202000492aefe43092b21af5332df0178">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58c039c2b66b30cab8406e3e1ed0d20b3a4c8c70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c1fd64cfd9511deeb0d7b10a369dda87c8eef769/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d2d27edb6fbc12fdf28008cdff920e66f08cf159">
+        <dex dex="/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Uber Clone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e2d9e9e8023b20f015bf9fae7ffec22eb2f2443/classes.dex" />
+    </item>
+
+</items>

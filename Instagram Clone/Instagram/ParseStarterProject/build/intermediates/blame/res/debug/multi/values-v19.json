@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram/Login_Signup/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/f1c20f30e2567ab071424ffee9dc7496b3643695/output/res/values-v19/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 76,
+                        "endOffset": 302
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram/Instagram/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/f1c20f30e2567ab071424ffee9dc7496b3643695/output/res/values-v19/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 76,
+                        "endOffset": 302
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram Clone/Instagram/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/f1c20f30e2567ab071424ffee9dc7496b3643695/output/res/values-v19/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 76,
+                        "endOffset": 302
+                    }
+                }
+            }
+        ]
+    }
+]

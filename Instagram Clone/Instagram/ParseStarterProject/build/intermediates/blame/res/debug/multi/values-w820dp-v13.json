@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram Clone/Instagram/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram Clone/Instagram/ParseStarterProject/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 57,
+                        "endOffset": 659
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram/Login_Signup/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram/Login_Signup/ParseStarterProject/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 57,
+                        "endOffset": 659
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram/Instagram/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram/Instagram/ParseStarterProject/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 57,
+                        "endOffset": 659
+                    }
+                }
+            }
+        ]
+    }
+]

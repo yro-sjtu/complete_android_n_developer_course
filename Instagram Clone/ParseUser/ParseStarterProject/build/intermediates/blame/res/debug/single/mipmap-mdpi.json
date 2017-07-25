@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram/ParseUser/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram/ParseUser/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/conan/cs/courses/udemy/the_complete_android_n_developer_course/projects/Instagram/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
